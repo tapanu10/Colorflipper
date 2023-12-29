@@ -1,0 +1,26 @@
+*{
+    margin:0;
+    box-sizing: border-box;
+
+}
+body{
+    display: flex;
+    align-items: center;
+    color:white;
+    justify-content: center;
+}
+.bg {
+    padding: 20px;
+    border-radius: 8px;
+    background-color: #61dafb;
+}
+
+#clickme {
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 4px;
+}
